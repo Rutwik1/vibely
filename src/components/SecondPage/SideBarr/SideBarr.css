@@ -1,0 +1,96 @@
+.sidebarr_container {
+  position: fixed;
+  background-color: white;
+  box-shadow: 1px 0px 1px 0px #0000002e;
+  z-index: 2;
+  width: 270px;
+  height: 100vh;
+  padding: 20px;
+  top: 0;
+  left: 0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.logoo {
+  transform: scale(0.8);
+  transform-origin: left;
+  padding-left: 15px;
+  position: relative;
+  bottom: 10px;
+}
+
+.textt-1 {
+  color: black;
+  position: relative;
+  bottom: 4.5rem;
+  padding-left: 15px;
+}
+
+.sidebarr-container-1 {
+  position: relative;
+  bottom: 4.5rem;
+  padding: 15px;
+  padding-bottom: 0rem;
+  border-radius: 15px;
+}
+
+.sidebarr-container-2 {
+  position: relative;
+  bottom: 4.5rem;
+}
+
+.sidebarr_cn-1 {
+  display: flexbox;
+  flex-wrap: wrap;
+  background-color: #f8f9f7;
+  padding: 15px;
+  padding-bottom: 0rem;
+  border-radius: 15px;
+}
+
+.sidebarr-items {
+  display: flex;
+}
+
+.sidebarr-image {
+  width: 34px;
+  height: 35px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.sidebarr-flex {
+  display: flex;
+}
+
+.verified-iconn {
+  position: relative;
+  right: 0.7rem;
+  top: 1.2rem;
+}
+
+.verified-insidee {
+  padding: 0.5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #cfe0e0;
+}
+
+.sidebarr-text-cn2 {
+  position: relative;
+  right: 4px;
+  font-size: 11px;
+  bottom: 9px;
+  font-weight: 500;
+}
+
+.sidebarr-text2 {
+  color: #585858;
+}
+
+.sidebarr-text2 strong {
+  color: black;
+}

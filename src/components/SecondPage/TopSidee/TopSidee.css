@@ -1,0 +1,83 @@
+.topsidee_container {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: white;
+  box-shadow: 0px 1px 1px 0px #0000002e;
+  width: 1055px;
+  margin-left: 310px;
+  border-top-right-radius: 20px;
+  /* 20 px less in width and more in margin-left*/
+}
+
+.topsidee_box {
+  display: flex;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.topsidee-flex {
+  display: flex;
+}
+
+.topsidee-image {
+  width: 45px;
+  height: 45px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.verified-icon-tp {
+  position: relative;
+  right: 0.7rem;
+  top: 1.8rem;
+}
+
+.verified-inside-tp {
+  padding: 1px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+.topsidee-text-cn {
+  position: relative;
+  right: 4px;
+  font-size: 11px;
+  bottom: 13px;
+  font-weight: 500;
+}
+
+.topsidee-text-cn h2 {
+  color: black;
+  font-weight: 800;
+}
+
+.topsidee-text-cn span {
+  position: relative;
+  bottom: 13px;
+  right: 4px;
+  color: #3ace95;
+  font-weight: 800;
+}
+
+.icons_container {
+  display: flex;
+  align-items: center;
+  margin-top: 0.6rem;
+  margin-left: 45rem;
+  width: 50px;
+  height: 38px;
+}
+
+.call-icon {
+  font-size: larger;
+}
+
+.info-icon {
+  padding-left: 1rem;
+  font-size: 1.6rem;
+}

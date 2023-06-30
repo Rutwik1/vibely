@@ -1,0 +1,308 @@
+.sidebar_container {
+  position: fixed;
+  background: linear-gradient(to bottom, #ceedf3, #ffffff);
+  box-shadow: 1px 0px 0px 0px #0000002e;
+  z-index: 2;
+  width: 270px;
+  height: 100vh;
+  padding: 20px;
+  top: 0;
+  left: 0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  overflow: hidden;
+}
+
+.logo {
+  transform: scale(0.8);
+  transform-origin: left;
+  padding-left: 15px;
+  position: relative;
+  bottom: 10px;
+}
+
+.text-1 {
+  color: black;
+  position: relative;
+  bottom: 4.5rem;
+  padding-left: 15px;
+}
+
+.sidebar-container-1 {
+  position: relative;
+  bottom: 4.5rem;
+  padding: 15px;
+  padding-bottom: 0rem;
+  border-radius: 15px;
+}
+
+.sidebar-container-2 {
+  position: relative;
+  bottom: 4.5rem;
+}
+
+.sidebar_cn-2 {
+  display: flexbox;
+  flex-wrap: wrap;
+  background: linear-gradient(to right, #b1e3ec, #dff2fd);
+  padding: 15px;
+  padding-bottom: 0rem;
+  border-radius: 15px;
+  /* box-shadow: 0 0 20px 0 rgba(14, 71, 177, 0.18); */
+}
+
+.sidebar-items {
+  display: flex;
+}
+
+.sidebar-image {
+  width: 34px;
+  height: 35px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.sidebar-flex {
+  display: flex;
+}
+
+.verified-icon {
+  position: relative;
+  right: 0.7rem;
+  top: 1.2rem;
+}
+
+.verified-inside {
+  padding: 0.5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #cfe0e0;
+}
+
+.sidebar-text-cn2 {
+  position: relative;
+  right: 4px;
+  font-size: 11px;
+  bottom: 9px;
+  font-weight: 500;
+}
+
+.sidebar-text2 {
+  color: #585858;
+}
+
+.sidebar-text2 strong {
+  color: black;
+}
+
+.mutual-list-cn {
+  display: flex;
+  position: relative;
+  bottom: 15px;
+  left: 30px;
+  transform: scale(0.7);
+  transform-origin: left;
+}
+
+.mutual-image1 {
+  width: 34px;
+  height: 35px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+  position: relative;
+  left: 16px;
+  z-index: 2;
+  padding: 2px;
+  background-color: white;
+}
+
+.mutual-image2 {
+  width: 34px;
+  height: 35px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+  position: relative;
+  left: 8px;
+  z-index: 1;
+  padding: 2px;
+  background-color: white;
+}
+
+.mutual-image3 {
+  width: 34px;
+  height: 35px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+  padding: 2px;
+  background-color: white;
+}
+
+.mutual-count {
+  display: flex;
+  align-items: center;
+  padding-left: 0.4rem;
+  margin-left: 0.3rem;
+  width: 38px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: #a7d6d5;
+}
+
+.mutual-count span {
+  color: rgb(10, 156, 132);
+  padding-left: 0.3rem;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.mutual-count1 {
+  display: flex;
+  align-items: center;
+  padding-left: 0.4rem;
+  margin-left: 0.3rem;
+  width: 55px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: #a7d6d5;
+}
+
+.mutual-count1 span {
+  color: rgb(10, 156, 132);
+  padding-left: 0.3rem;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.cube {
+  width: 30px;
+  height: 50px;
+  position: relative;
+  bottom: 28rem;
+  left: 16.3rem;
+}
+
+.dot {
+  color: #74d0c7;
+  line-height: 0.55;
+  font-weight: 800;
+  letter-spacing: 0.6px;
+}
+
+.cube1 {
+  width: 30px;
+  height: 50px;
+  position: relative;
+  top: 1rem;
+  right: 6px;
+}
+
+.cube2 {
+  width: 30px;
+  height: 50px;
+  position: relative;
+  left: 14.5rem;
+}
+
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.ellipse-wrapper-1 {
+  border: 0px none;
+  height: 92px;
+  width: 86px;
+  margin-left: 3rem;
+  position: relative;
+  right: 0.5rem;
+  transform: rotate(-25deg);
+}
+
+.ellipse-1 {
+  height: 20px;
+  left: 0;
+  top: 0;
+  width: 56px;
+}
+
+.ellipse-wrapper-2 {
+  border: 0px none;
+  height: 92px;
+  width: 86px;
+  margin-right: 5rem;
+  margin-top: -13.5rem;
+  position: relative;
+  right: 5.5rem;
+  transform: rotate(120deg);
+}
+
+.ellipse-2 {
+  height: 20px;
+  left: 0;
+  top: 0;
+  width: 46px;
+}
+
+.ellipse-wrapper-3 {
+  border: 0px none;
+  height: 92px;
+  width: 86px;
+  margin-top: -15rem;
+  position: relative;
+  right: 37rem;
+  top: 14.5rem;
+  transform: rotate(-28deg);
+  z-index: -2;
+}
+
+.ellipse-3 {
+  height: 250px;
+  left: 0;
+  top: 0;
+  width: 606px;
+}
+
+.ellipse-wrapper-4 {
+  border: 0px none;
+  height: 92px;
+  width: 86px;
+  margin-top: -15rem;
+  position: relative;
+  right: 8.5rem;
+  bottom: 25.5rem;
+  transform: rotate(4deg);
+  z-index: -2;
+}
+
+.ellipse-4 {
+  height: 150px;
+  left: 0;
+  top: 0;
+  width: 300px;
+}
+
+.circle-sm {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 15rem;
+  left: 15rem;
+  background-color: #74d0c7;
+}
+
+.circle-md {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 8rem;
+  left: 10rem;
+  background: linear-gradient(to right, #b1e3ec, #dff2fd);
+}

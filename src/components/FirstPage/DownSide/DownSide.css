@@ -1,0 +1,62 @@
+.ds-heading {
+  color: black;
+  position: relative;
+  bottom: 21.2rem;
+  margin-left: 21rem;
+}
+
+.downside-container {
+  display: flex;
+  position: relative;
+  bottom: 21.3rem;
+  margin-left: 20.4rem;
+}
+
+.downside-items {
+  position: relative;
+  display: flex;
+  padding: 0 15px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 5px 1px rgba(14, 71, 177, 0.18);
+}
+
+.downside-items {
+  margin-top: 0;
+}
+
+.downside-flex {
+  display: flex;
+}
+
+.downside-image {
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 7px;
+  position: relative;
+  top: 18px;
+  background-color: #449ea5;
+}
+
+.downside-text-cn {
+  position: relative;
+  font-size: 11px;
+  font-weight: 500;
+  bottom: 6px;
+  padding-left: 1rem;
+}
+
+.downside-text-cn h3 {
+  color: black;
+  position: relative;
+  top: 0.7rem;
+  font-weight: 800;
+}
+
+.downside-text-cn p {
+  position: relative;
+  /* bottom: 10px; */
+  color: #585858;
+}

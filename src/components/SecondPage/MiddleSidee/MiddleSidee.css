@@ -1,0 +1,143 @@
+.middlesidee_date {
+  margin-left: 49rem;
+  margin-top: 6.5rem;
+}
+
+.middlesidee_date span {
+  color: black;
+}
+
+.middlesidee-container-1 {
+  margin-left: 20.5rem;
+  margin-top: 3rem;
+}
+
+.middlesidee-items {
+  display: flex;
+}
+
+.middlesidee-flex-1 {
+  padding-top: 3.2rem;
+}
+
+.middlesidee-flex-3 {
+  padding-top: 1.2rem;
+}
+
+.middlesidee-image {
+  width: 34px;
+  height: 35px;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.middlesidee-text-cn {
+  position: relative;
+  left: 12px;
+  font-size: 11px;
+  bottom: 15px;
+}
+
+.middleside_text-1 {
+  background-color: #d5e7f1;
+  padding: 15px;
+  border-radius: 15px;
+  border-bottom-left-radius: 0;
+  position: relative;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.middlesidee-text-cn p {
+  color: black;
+  font-weight: 500;
+}
+
+.middlesidee-text-cn span {
+  color: #585858;
+  position: relative;
+  right: 5px;
+  top: 5px;
+}
+
+.middlesidee-text-cn2 {
+  position: relative;
+  right: 12px;
+  font-size: 11px;
+  bottom: 15px;
+}
+
+.middlesidee-text-cn4 {
+  position: relative;
+  right: 12px;
+  font-size: 11px;
+  bottom: 15px;
+}
+
+.middleside_text-2 {
+  background-color: #74d0c7;
+  padding: 15px;
+  border-radius: 15px;
+  border-bottom-right-radius: 0;
+  position: relative;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.middleside_text-4 {
+  background-color: #74d0c7;
+  padding: 15px;
+  border-radius: 15px;
+  border-bottom-right-radius: 0;
+  position: relative;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.middlesidee-text-cn2 p {
+  color: black;
+  font-weight: 500;
+}
+
+.middlesidee-text-cn2 span {
+  color: #585858;
+  position: relative;
+  left: 221px;
+  top: 5px;
+}
+
+.middlesidee-text-cn4 p {
+  color: black;
+  font-weight: 500;
+}
+
+.middlesidee-text-cn4 span {
+  color: #585858;
+  position: relative;
+  left: 59px;
+  top: 5px;
+}
+
+.middlesidee-flex-2 {
+  padding-top: 3rem;
+}
+
+.middlesidee-flex-4 {
+  padding-top: 1rem;
+}
+
+.middlesidee-container-2 {
+  margin-left: 58rem;
+  margin-top: 0.5rem;
+}
+
+.middlesidee-container-3 {
+  margin-left: 20.5rem;
+  margin-top: 0.5rem;
+}
+
+.middlesidee-container-4 {
+  margin-left: 68rem;
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,62 @@
+.logo {
+  display: flex;
+}
+
+.logo-square-1 {
+  width: 25px;
+  height: 45px;
+  background-color: rgb(121, 250, 171);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  /* border-top-left-radius: 10px; */
+  border-top-right-radius: 10px;
+  transform: rotate(135deg);
+}
+
+.square-1 {
+  display: flex;
+  position: relative;
+}
+
+.logo-square-2 {
+  width: 25px;
+  height: 45px;
+  background-color: rgb(30, 209, 155);
+  /* border-bottom-left-radius: 10px; */
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  transform: rotate(45deg);
+}
+
+.square-2 {
+  display: flex;
+  position: relative;
+  left: -11px;
+}
+
+.logo-square-3 {
+  position: relative;
+  z-index: 1;
+  width: 25px;
+  height: 25px;
+  background-color: rgb(62, 169, 196);
+  transform: rotate(45deg);
+  border-bottom-right-radius: 10px;
+}
+
+.square-3 {
+  display: flex;
+  position: relative;
+  left: -43px;
+  bottom: 13px;
+  padding-top: 30px;
+}
+
+.logo-text {
+  position: relative;
+  bottom: 1.9rem;
+  right: 0.8rem;
+  font-size: 20px;
+  color: black;
+}

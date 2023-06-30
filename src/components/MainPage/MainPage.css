@@ -1,0 +1,30 @@
+.MaintFirstPage-size {
+  transform: scale(0.5);
+  transform-origin: top;
+  position: relative;
+  right: 6.6rem;
+  top: 1.3rem;
+}
+
+.MainSecondPage-size {
+  transform: scale(0.5);
+  transform-origin: top;
+  position: relative;
+  top: 15.3rem;
+  left: 8.6rem;
+}
+
+.card-size {
+  /* padding-left: 15rem; */
+  position: relative;
+  bottom: 5rem;
+  left: 7rem;
+  bottom: 5rem;
+}
+
+.price-size {
+  position: relative;
+  /* bottom: 5rem; */
+  top: 1rem;
+  left: 11rem;
+}

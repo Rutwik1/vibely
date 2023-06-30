@@ -1,0 +1,55 @@
+.downsidee_container {
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px -1px 1px 0px #0000002e;
+  width: 1055px;
+  height: 67px;
+  margin-left: 310px;
+  border-bottom-right-radius: 20px;
+}
+
+.downsidee_box {
+  display: flex;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.icons_container-ds {
+  display: flex;
+  margin-top: 0.25rem;
+}
+
+.plus_insidee {
+  background-color: #e4f5ff;
+  padding: 0.8rem;
+  border-radius: 10px;
+  font-size: 12px;
+  position: relative;
+  bottom: 8px;
+}
+
+.file_icon-ds {
+  padding-left: 1.5rem;
+  font-size: 1.5rem;
+  position: relative;
+  bottom: 2px;
+}
+
+.downsidee-text-cn {
+  padding-left: 2rem;
+  padding-top: 3px;
+}
+
+.downsidee-text-cn span {
+  color: #585858;
+  font-size: 15px;
+}
+
+.send-icon {
+  padding-left: 40.5rem;
+  padding-top: 2px;
+  font-size: 1.5rem;
+}
